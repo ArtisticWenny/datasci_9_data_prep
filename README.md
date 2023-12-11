@@ -6,3 +6,6 @@
   https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 - Dataset # 2.) Lottery powerball
   https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010
+
+### Step 1.)
+- Cleaned the datasets
